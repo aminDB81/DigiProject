@@ -512,3 +512,8 @@ footer .footer-logo {
   margin-bottom: 0;
   font-weight: 500;
 }
+@media only screen and (max-width: 575px) {
+  .service_title h3 ,.about-info h3, .carousel-item h3 , .testmonials h1 {
+  font-size: 2em;
+  }
+  }
