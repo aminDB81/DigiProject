@@ -5,7 +5,7 @@ body {
 }
 
 #myHeader.scrolled {
-  background-color: rgb(0, 0, 0, 0.858);
+  background-color: rgb(0, 0, 0, 0.9);
   transition: all 0.3s; /* Replace with your desired scrolled background color */
 }
 .bgcolor {
@@ -345,4 +345,33 @@ nav ul li ul li a {
 }
 .about-wrap-area .single-service-wrap:hover{
   background-color: #0fc272;
+}
+.solution-area{
+  padding: 150px 0;
+  background: rgba(0, 0, 0, 0.527);
+}
+
+.solution-area h3 {
+color: rgb(228, 221, 221);
+font-weight: 700;
+line-height: 4rem;
+}
+.solution-area p {
+  line-height: 25px;
+  font-size: 14px;
+  color: #cfd8dc;
+  line-height: 2rem;
+}
+.solution-img img{
+  width: 100%;
+}
+.solution-img {
+  overflow-y: hidden;
+}
+.solution-area .first-div {
+  margin-top: 5rem;
+  line-height: 20px;
+}
+.solution-area button {
+  z-index: 0;
 }
