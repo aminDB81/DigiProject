@@ -424,3 +424,22 @@ flex-wrap: wrap;
   color: #27ae60;
   margin-bottom: 20px;
 }
+
+.project-area{
+  padding: 150px 0;
+  background: #2ecc71;
+}
+
+.project-info h3 {
+  font-size: 35px;
+  font-weight: 800;
+  color: #fff;
+}
+.project-info p{
+  font-size: 16px;
+  color: #fff;
+}
+
+.project-info button {
+  font-size: 15px;
+}
